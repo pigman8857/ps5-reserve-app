@@ -1,0 +1,6 @@
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:pigman8857/product-service.git
+[submodule "reserve-service"]
+	path = reserve-service
+	url = git@github.com:pigman8857/reserve-service.git
